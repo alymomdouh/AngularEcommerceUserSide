@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/588ba1f7-b50f-43d9-8508-1641fbfca71a/resourceGroups/finalproject/providers/Microsoft.Web/sites/i-tech",
+    "appService.deploySubpath": "."
+}
